@@ -1,0 +1,15 @@
+<%= div_for comment do %>
+        <table>
+        	<tr>
+        	<strong>
+        		    <%= comment.body %>
+        	</strong>
+        	</tr>
+        </br>
+			<tr>
+				<font size = "2">
+					Posted <%= time_ago_in_words(comment.created_at) %> ago
+				</font>
+			</tr>
+        </table>
+<% end %>

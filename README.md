@@ -6,3 +6,4 @@ This is a simple web blog developed using the Ruby on Rails language. This saas 
 
 Test on new jmwhicke-database-config branch.
 Testing commit then push requests.
+Yet again, another GitHub commit test. Fuck me right?
